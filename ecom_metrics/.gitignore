@@ -1,0 +1,22 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+*.egg
+*.eggs
+dist/
+build/
+*.tgz
+*.tar.gz
+*.whl
+*.idea
+*.DS_Store
+
+# Django-specific
+*.log
+*.pot
+*.pyc
+db
